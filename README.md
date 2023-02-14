@@ -7,24 +7,24 @@
   <img alt="projeto MyLinks" src="./assets/images/screenshot.png" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## ⚡️ Techs
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed using this following techs:
 
-- HTML e CSS
+- HTML & CSS
 - JavaScript
-- Git e Github
+- Git & Github
 - Figma
 
-## 💻 Sobre o projeto
+## 💻 About the project
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+All My Links page is a link aggregator to use as an online business card.
 
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/community/file/1187422022288947321). Para acessar é necessário ter conta no [Figma](https://figma.com).
+You can view the project's layout from [this link](https://www.figma.com/community/file/1187422022288947321). To access is neccessary to have an account on [Figma](https://figma.com).
 
 ---
 
-Projeto desenvolvido assistindo o conteúdo da Rocketseat <br>:rocket: [Comunidade da Rocketseat no Discord](https://discord.gg/rocketseat)
+This project was developed following the instructions from Rocketseat <br>:rocket: [Rocketseat community on Discord](https://discord.gg/rocketseat)
